@@ -30,3 +30,4 @@ download(url, 'public/data', { filename })
     console.error(`${url} can't be downloaded. Error:`)
     console.error(err)
   })
+ 
